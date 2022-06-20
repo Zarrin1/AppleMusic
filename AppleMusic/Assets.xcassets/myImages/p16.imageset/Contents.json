@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "jason-rosewell-ASKeuOZqhYU-unsplash_tint.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "jason-rosewell-ASKeuOZqhYU-unsplash_tint-1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "jason-rosewell-ASKeuOZqhYU-unsplash_tint-2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

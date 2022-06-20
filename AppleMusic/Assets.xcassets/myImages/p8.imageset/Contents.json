@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "young-african-american-jazz-musician-singing-song-gradient-pink.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "young-african-american-jazz-musician-singing-song-gradient-pink-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "young-african-american-jazz-musician-singing-song-gradient-pink-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
